@@ -6,8 +6,11 @@ Foundation for Research and Innovation), aims to examine the evolution of crime 
 economic crisis and beyond in Greece and especially in the region of Athens.
 
 The webgis is running in
+
 http://snf-888598.vm.okeanos.grnet.gr:3838/urbancrime/
+
 amimis.shinyapps.io/urbancrime
 
 The web site of the project is https://urbancrime.gr/
+
 This work is funded by H.F.R.I ( https://www.elidek.gr/ )
